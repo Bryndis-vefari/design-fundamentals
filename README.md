@@ -2,7 +2,6 @@
  -->
 # Color Theory
 
-![alt text](image.jpg)
 ## What is Color Theory?
 
 Color theory are guidelines that designers use to communicate with users through appealing color schemes in visual interfaces. To help pick the best colors, designers use a color wheel and refer to extensive collected knowledge about human optical ability, psychology and culture.
@@ -19,7 +18,7 @@ Sir Isaac Newton established color theory when he invented the color wheel in 16
 
 Following Newton’s findings, the study of color advanced to cover the properties of color in its two forms; print/paint and screen/light—and in a variety of fields, from art to astronomy. 
 
-![color wheel](images/color-wheel.jpg)
+![color wheel](photos/color-wheel.jpg)
 ### The colors properties are:
 
 - **Hue** refers to the pure, saturated colors seen on the color wheel above.
