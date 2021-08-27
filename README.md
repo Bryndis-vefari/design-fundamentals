@@ -52,13 +52,20 @@ The right contrast is vital to catching users’ attention in the first place.
 
 As you have learned by now, Color Theory is a vital aspect in the world of design. It touches on various topics, not only the look of a design but also the feel and how people in different societies perceive the design based on the color schemes used and their cultural color perceptance.
 
-*References*
-The Color Theory literature:
+---
+**References**
+
+*The Color Theory literature:*
+
 	[Main article used for text](https://www.interaction-design.org/literature/topics/color-theory)
+
     [Color in design](https://www.shutterstock.com/blog/complete-guide-color-in-design)
 
-Markdown:
+*Markdown:*
+
     [What is Markdown](https://en.wikipedia.org/wiki/Markdown#:~:text=Markdown%20is%20a%20lightweight%20markup,in%20its%20source%20code%20form.)
- 	[A list of Markdown syntax elements](https://www.markdownguide.org/cheat-sheet/)   
+
+ 	[A list of Markdown syntax elements](https://www.markdownguide.org/cheat-sheet/) 
+
     [Tutorial for beginners on Youtube](https://https://www.youtube.com/watch?v=0_tO8HgJiLQ)
 
